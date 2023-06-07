@@ -5028,7 +5028,7 @@ i, .tab-content .tab-pane.active, .scroll-to-top i, .quantity .cart-plus-minus >
 /*----------------------------------------*/
 @media (max-width: 575px) {
   .home-slider .slide-item {
-    background-position: left;
+    background-position: right;
   }
 }
 
@@ -5523,7 +5523,7 @@ i, .tab-content .tab-pane.active, .scroll-to-top i, .quantity .cart-plus-minus >
 .banner-area-5 .banner-item .banner-content > span {
   text-transform: uppercase;
   font-weight: 500;
-  letter-spacing: 4px;
+  /* letter-spacing: 4px; */
   display: block;
   padding-bottom: 10px;
 }
